@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Code Registry</title>
+    <link rel="stylesheet" href="/static/css/styles.css" />
+  </head>
+  <body>
+    <div class="container">
+      <h1>Code Registry</h1>
+
+      <!-- Formulário para registrar novos códigos -->
+      <form id="register-form" class="form">
+        <input type="text" name="code" placeholder="Enter code" required />
+        <input
+          type="text"
+          name="description"
+          placeholder="Enter description"
+          required
+        />
+        <button type="submit" class="btn">Register</button>
+      </form>
+
+      <h2>Códigos por Descrição</h2>
+      <!-- Barra de pesquisa inteligente -->
+      <input
+        type="text"
+        id="search-box"
+        placeholder="Search for a description"
+        class="search-box"
+      />
+
+      <!-- Resultados da pesquisa -->
+      <div id="search-results" class="results"></div>
+    </div>
+
+    <script src="/static/js/scripts.js"></script>
+  </body>
+</html>
