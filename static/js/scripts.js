@@ -71,6 +71,6 @@ function displayResults(results) {
   });
 
   if (results.length === 0) {
-    resultsContainer.innerHTML = "<p>No results found.</p>";
+    resultsContainer.innerHTML = "<p>Não há resultados para descrição</p>";
   }
 }
