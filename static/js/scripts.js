@@ -8,7 +8,7 @@ document
 
     // Verifica se ambos os campos estão preenchidos
     if (!code || !description) {
-      alert("Both fields are required.");
+      alert("Ambos os campos são obrigatórios.");
       return;
     }
 
