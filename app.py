@@ -52,7 +52,7 @@ def register_code():
     if description in codigo_registro:
         return jsonify(
             {
-                "message": f"Description '{description}' is already registered with code {codigo_registro[description]}."
+                "message": f" A descrição  '{description}' já existe para o codigo: {codigo_registro[description]}."
             }
         ), 400
     else:
@@ -64,7 +64,7 @@ def register_code():
 
         return jsonify(
             {
-                "message": f"Successfully registered code '{code}' for description '{description}'. CSV file updated at '{csv_file}'."
+                "message": f"Código registrado com sucesso! Código: {code} e com a descrição: {description}. atualizado na base de dados '{csv_file}'."
             }
         ), 200
 

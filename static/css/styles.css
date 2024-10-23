@@ -64,6 +64,7 @@ input[type="text"] {
   border: 1px solid #ccc;
   border-radius: 4px;
   background-color: #fafafa;
+  font-weight: bold;
 }
 
 .result-item {
