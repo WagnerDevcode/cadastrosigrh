@@ -66,7 +66,7 @@ function displayResults(results) {
   results.forEach((result) => {
     const div = document.createElement("div");
     div.className = "result-item";
-    div.textContent = `Code: ${result.code}, Description: ${result.description}`;
+    div.textContent = `Código: ${result.code}, Descrição: ${result.description}`;
     resultsContainer.appendChild(div);
   });
 
