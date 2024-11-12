@@ -1,3 +1,12 @@
 Description,Code
- APOSENTADO ESTATUTARIO,11 
+Aposentadoria Estátutaria,11 
 Dependentes,CADDEP32
+Atribuicao de Matricula, CADPES00
+Inclusao do Empregado, CADPES01
+Por Nome, CADPES35
+Alteracao Dados Pessoais, CADPES05
+Por Cargo/UA/Lot/Matr, CADPES36 
+Alteracao Documentos Pessoais,CADPES06
+
+
+ 
