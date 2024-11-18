@@ -1,9 +1,36 @@
 Description,Code
-Aposentadoria Estátutaria,11 
+Aposentadoria Estatutária,11 
 Dependentes,CADDEP32
-Atribuicao de Matricula, CADPES00
-Inclusao do Empregado, CADPES01
-Por Nome, CADPES35
-Alteracao Dados Pessoais, CADPES05
-Por Cargo/UA/Lot/Matr, CADPES36 
-Alteracao Documentos Pessoais,CADPES06
+Atribuição de Matrícula, CADPES00
+Inclusão do Empregado, CADPES01
+Por Nome,CADPES35
+Alteração Dados Pessoais,CADPES05
+Cargo/UA/Lot/Matr,CADPES36 
+Alteração Documentos Pessoais,CADPES06
+Alteraçãao Dados Funcionais,CADPES07
+Alteração Dados Gerais,CADPES08
+Cadastro Instituidor de Pensão,CADPES10 
+Alt/Cons. Dados Específicos,CADPES11 
+Libera Funcionário p/Recebimento,CADPES14
+Manutenção de Tempos,CADPES16
+Situação do Empregado,CADPES17
+Função por Código/Denom,CADPES18
+Manutencao de Aferição,CADPES21 
+Mudança de Classe - Mag./Assis.,CADPES22
+Alteração do Nome do Servidor,CADPES23
+Manutencao da Conta Contábil,CADPES25
+Cancelamento Emis. ContraCheque,CADPES29
+Recadastramento Inativos, CADPES30
+Por Nome,CADPES35
+Por Cargo/UA/Lot/Matr,CADPES36
+Gerais por Matricula,CADPES31
+Manutenção Empregados Externos,CADPES46 
+Alteração da Data de Admissão,CADPES47
+Para Nomeação,CADPES56
+
+
+
+
+
+
+
